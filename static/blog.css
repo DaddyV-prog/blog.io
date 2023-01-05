@@ -1,0 +1,166 @@
+body{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+header{
+    height: 150px;
+    width: inherit;
+    border-style: ;
+}
+#logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 150px;
+    top: 50px;
+}
+#title{
+    height: 150px;
+    width: 500px;
+    position: absolute;
+    margin-left: 400px;
+    
+}
+ul{
+    position: absolute;
+    margin-left: 450px;
+    top: 160px;
+    word-spacing: 20px;
+}
+.nav_line{
+    height: 2px;
+    width: inherit;
+    background-color: black;
+    position: relative;
+    top: 25px;
+}
+a:visited{
+    color: black;
+}
+.ads_space{
+    height: 100px;
+    width: inherit;
+    background-color: red;
+    position: relative;
+    top: 30px;
+    
+}
+.ads_box{
+    height: 50px;
+    width: 600px;
+    background-color: white;
+    position: relative;
+    margin-left: 350px;
+    top: 20px;
+}
+#tele_img{
+    height: 400px;
+    width: 800px;
+    position: absolute;
+    top: 320px;
+    margin-left: 300px;
+}
+.intro_space{
+    width: inherit;
+    height: 200px;
+    background-color: rgb(235, 233, 233);
+    position: relative;
+    top: 480px;
+}
+.intro_rectangle{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    margin-left: 450px;
+    top: 30px;
+    -webkit-transform: rotate(160deg);
+}
+.intro_rectangle_text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
+    text-transform: uppercase;
+    position: absolute;
+    top: 820px;
+    margin-left: 540px;
+    color: red;
+    letter-spacing: 2px;
+}
+.intro_rectangle_text2{
+    font-family:  serif;
+    font-weight: small;
+    font-size: small;
+    text-transform: capitalize;
+    position: absolute;
+    top: 870px;
+    margin-left: 500px;
+    color: black;
+    letter-spacing: 2px;
+}
+.footer{
+    height: 400px;
+    width: inherit;
+    background-color: black;
+    position: relative;
+    top: 600px;
+}
+.product{
+    font-family:  'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    margin-left: 50px;
+    color: whitesmoke;
+    
+}
+.expert_service{
+    font-family:  'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    margin-left: 300px;
+    color: whitesmoke;
+}
+.support{
+    font-family:  'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    position: relative ;
+    top: 30px;
+    margin-left: 550px;
+    color: whitesmoke;
+}
+.resources{
+    font-family:  'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    margin-left: 800px;
+    color: whitesmoke;
+}
+.about_us{
+    font-family:  'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    margin-left: 1100px;
+    color: whitesmoke;
+}
+#search{
+    position: absolute;
+    right: 200px;
+    top: 60px;
+}
+.build_your_website{
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: solid;
+    background-color: red;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
